@@ -1,0 +1,13 @@
+<resources>
+<!--    //Student Name: Muhammed Adeyemi, 216766644-->
+<!--    // This Lab was done individually-->
+<!--    //https://youtu.be/HLpLYFbyRw8-->
+    <string name="app_name">KryptoNote</string>
+    <string name="decrypt">DECRYPT</string>
+        <string name="encrypt">ENCRYPT</string>
+    <string name="load">LOAD</string>
+    <string name="save">SAVE</string>
+    <string name="file_name">File Name</string>
+    <string name="cryptographic_key">Cryptographic Key</string>
+    <string name="note">...</string>
+</resources>
